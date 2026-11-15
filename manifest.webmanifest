@@ -1,0 +1,13 @@
+{
+  "name": "O golpe tá aí, cai quem quer!",
+  "short_name": "Golpe Tá Aí",
+  "description": "Objeto de aprendizagem gamificado sobre phishing, engenharia social, privacidade e segurança digital.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08101f",
+  "theme_color": "#f6c90e",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
